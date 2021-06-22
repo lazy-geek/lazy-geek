@@ -25,3 +25,11 @@ My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am laz
 <img src="assets/icons8-javascript.svg" alt="drawing" width="96"/>
 <img src="assets/icons8-linux-96.png" alt="drawing" width="96"/>
 </div>
+
+## :rocket: GitHub Stats:
+
+<!-- <div align="center"> -->
+
+![lazy-geek's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy-geek&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- </div> -->
