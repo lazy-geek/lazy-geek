@@ -1,6 +1,6 @@
 ## :smiley: About Me
 
-Hi my name is Abrar, i go by as lazy-geek on github.
+Hi my name is Abrar Malek, i go by as lazy-geek on github.
 
 I Am A Self-Tought Developer And I Love To Contribute To Open-source,
 I Was Introduced To Computers Through My Intrests in Electronics And How They Work.
