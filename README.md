@@ -11,6 +11,8 @@ My First Programming Language Was Javascript Which I Learned In My Free Time Few
 
 My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am lazy, Particularly At Doing Repetitve Tasks. That's Another Reason I Love Computers Because You Can Automate Repetitve Tasks, And I Would Rather Spend 1 Hour Automating That Task Than Spend 30 Minute Actually Doing The Task Because I Learn New Things That Way.
 
+[![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
+
 ## :gear: Languages And Tools:
 
 <div align="center">
