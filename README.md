@@ -30,7 +30,7 @@ My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am laz
 
 <!-- <div align="center"> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazy-geek&count_private=true&show_icons=true&theme=tokyonight&border_color=8DB7FD&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazy-geek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&hide_border=true&bg_color=292d3e)
 
 <!-- </div> -->
 
@@ -38,6 +38,7 @@ My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am laz
 
 <!-- <div align="center"> -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazy-geek&theme=tokyonight&border=8DB7FD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazy-geek&theme=tokyonight&hide_border=true&background=292D3E)
 
 <!-- </div> -->
+
