@@ -22,6 +22,7 @@ My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am laz
 <img src="assets/icons8-git.svg" alt="drawing" width="96"/>
 <img src="assets/icons8-github.svg" alt="drawing" width="96"/>
 <img src="assets/icons8-html-5.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-css3.svg" alt="drawing" width="96"/>
 <img src="assets/icons8-javascript.svg" alt="drawing" width="96"/>
 <img src="assets/icons8-linux-96.png" alt="drawing" width="96"/>
 </div>
