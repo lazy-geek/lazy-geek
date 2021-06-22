@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### About Me :smiley:
 <!--
 **lazy-geek/lazy-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi my name is Abrar, i go by as lazy-geek on github.
+
+I Am A Self-Tought Developer And I Love To Contribute To Open-source,
+I Was Introduced To Computers Through My Intrests in Electronics And How They Work.
+
+I Try To Play Around And Learn Diffrent Technologies And Languages Whenever I Get A Chance
+
+My First Programming Language Was Javascript Which I Learned In My Free Time Few Years Ago, Ever Since Then I Have Never Looked Back.
+
+My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am lazy, Particularly At Doing Repetitve Tasks. That's Another Reason I Love Computers Because You Can Automate Repetitve Tasks, And I Would Rather Spend 1 Hour Automating That Task Than Spend 30 Minute Actually Doing The Task Because I Learn New Things That Way.
