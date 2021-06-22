@@ -23,3 +23,16 @@ I Try To Play Around And Learn Diffrent Technologies And Languages Whenever I Ge
 My First Programming Language Was Javascript Which I Learned In My Free Time Few Years Ago, Ever Since Then I Have Never Looked Back.
 
 My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am lazy, Particularly At Doing Repetitve Tasks. That's Another Reason I Love Computers Because You Can Automate Repetitve Tasks, And I Would Rather Spend 1 Hour Automating That Task Than Spend 30 Minute Actually Doing The Task Because I Learn New Things That Way.
+
+## Languages And Tools:
+
+<div align="center">
+<img src="assets/icons8-android-os.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-c++.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-flutter.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-git.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-github.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-html-5.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-javascript.svg" alt="drawing" width="96"/>
+<img src="assets/icons8-linux-96.png" alt="drawing" width="96"/>
+</div>
