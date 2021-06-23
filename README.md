@@ -31,7 +31,7 @@ My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am laz
 
 <!-- <div align="center"> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazy-geek&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&hide_border=true&bg_color=292d3e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazy-geek&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=292d3e)
 
 <!-- </div> -->
 
