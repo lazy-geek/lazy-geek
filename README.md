@@ -5,7 +5,7 @@ Hi My Name Is Abrar Malek, I Go By As lazy-geek On Github.
 I Am A Self-Tought Developer And I Love To Contribute To Open-source,
 I Was Introduced To Computers Through My Intrests in Electronics And How They Work.
 
-I Try To Play Around And Learn Diffrent Technologies And Languages Whenever I Get A Chance
+I Try To Play Around And Learn Diffrent Technologies And Languages Whenever I Get A Chance.
 
 My First Programming Language Was Javascript Which I Learned In My Free Time Few Years Ago, Ever Since Then I Have Never Looked Back.
 
