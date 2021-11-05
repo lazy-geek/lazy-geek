@@ -3,7 +3,7 @@
 Hello, my name is Abrar Malek, and on Github I go by the handle lazy-geek.
 
 I'm a self-taught developer who enjoys contributing to open-source projects.
-I first became interested in computers because of my fascination with electronics and how they work.
+My interest in electronics and how things work led to my introduction to computers.
 
 Whenever I have the opportunity, I try to experiment with new technologies and languages.
 
