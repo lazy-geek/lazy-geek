@@ -1,15 +1,16 @@
 ## :smiley: About Me
 
-Hi My Name Is Abrar Malek, I Go By As lazy-geek On Github.
+Hello, my name is Abrar Malek, and on Github I go by the handle lazy-geek.
 
-I Am A Self-Tought Developer And I Love To Contribute To Open-source,
-I Was Introduced To Computers Through My Intrests in Electronics And How It Works.
+I'm a self-taught developer who enjoys contributing to open-source projects.
 
-I Try To Play Around And Learn Different Technologies And Languages Whenever I Get A Chance.
+I first became interested in computers because of my fascination with electronics and how they work.
 
-My First Programming Language Was Javascript Which I Learned In My Free Time Few Years Ago, Ever Since Then I Have Never Looked Back.
+Whenever I have the opportunity, I try to experiment with new technologies and languages.
 
-My GitHub UserName Is lazy-geek Because As You Can Guess From UserName, I Am Lazy, Particularly At Doing Repetitve Tasks. That's Another Reason I Love Computers Because You Can Automate Repetitve Tasks.
+My first programming language was Javascript, which I picked up in my spare time a few years ago and haven't looked back since.
+
+My GitHub username is lazy-geek because, as you might have guessed from the name, I'm lazy, especially when it comes to repetitive tasks. Another reason I enjoy computers is the ability to automate mundane tasks.
 
 [![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
 
