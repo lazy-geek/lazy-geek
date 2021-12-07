@@ -20,15 +20,15 @@ I love watching anime and one piece is my favourite anime.
 ## :gear: Languages And Tools:
 
 <div align="center">
-<img src="assets/icons8-android-os.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-c++.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-flutter.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-git.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-github.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-html-5.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-css3.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-javascript.svg" alt="drawing" width="96"/>
-<img src="assets/icons8-linux-96.png" alt="drawing" width="96"/>
+<img src="assets/icons8-android-os.svg" alt="android" width="96"/>
+<img src="assets/icons8-c++.svg" alt="c plus plus" width="96"/>
+<img src="assets/icons8-flutter.svg" alt="flutter" width="96"/>
+<img src="assets/icons8-git.svg" alt="git" width="96"/>
+<img src="assets/icons8-github.svg" alt="github" width="96"/>
+<img src="assets/icons8-html-5.svg" alt="html5" width="96"/>
+<img src="assets/icons8-css3.svg" alt="css3" width="96"/>
+<img src="assets/icons8-javascript.svg" alt="javascript" width="96"/>
+<img src="assets/icons8-linux-96.png" alt="linux" width="96"/>
 </div>
 
 ## :rocket: GitHub Stats:
