@@ -13,6 +13,10 @@ My GitHub username is lazy-geek because, as you might have guessed from the name
 
 [![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
 
+I love anime.
+
+<img src="assets/12.gif" alt="anime gif"/>
+
 ## :gear: Languages And Tools:
 
 <div align="center">
