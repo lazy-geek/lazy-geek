@@ -11,11 +11,14 @@ My first programming language was Javascript, which I picked up in my spare time
 
 My GitHub username is lazy-geek because, as you might have guessed from the name, I'm lazy, especially when it comes to repetitive tasks. Another reason I enjoy computers is the ability to automate mundane tasks.
 
-[![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
-
-I love watching anime and one piece is my favourite anime.
+I enjoy watching anime and one piece is my favourite anime.
 
 <img src="assets/12.gif" alt="anime gif"/>
+
+## :snowflake: Social
+
+[![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
+
 
 ## :gear: Languages And Tools:
 
