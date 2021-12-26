@@ -13,7 +13,7 @@ My GitHub username is lazy-geek because, as you might have guessed from the name
 
 I enjoy watching anime and one piece is my favourite anime.
 
-<img src="assets/12.gif" alt="anime gif"/>
+<img src="assets/12.gif" alt="anime gif" width="300"/>
 
 ## :snowflake: Social
 
