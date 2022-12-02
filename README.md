@@ -17,7 +17,7 @@ I enjoy watching anime and one piece is my favourite anime.
 
 ## :snowflake: Social
 
-[![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215)
+[![](https://img.shields.io/badge/-abrar-blue?style=for-the-badge&logo=linkedin&logoColor=white&linl=https://www.linkedin.com/in/abrar-malek-79280a215)](https://www.linkedin.com/in/abrar-malek-79280a215) [![](https://img.shields.io/badge/AbrarMalek007-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbrarMalek007)
 
 
 ## :gear: Languages And Tools:
